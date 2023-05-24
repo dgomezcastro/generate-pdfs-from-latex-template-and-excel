@@ -1,4 +1,4 @@
-Generate PDFs from LaTeX template and Excel table
+# Generate PDFs from LaTeX template and Excel table
 
 This script takes an Excel file and a Template in LaTeX document.
 It allows for a dictionary of replacements of structure
